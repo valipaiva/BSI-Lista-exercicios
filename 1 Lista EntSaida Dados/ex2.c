@@ -1,3 +1,6 @@
+/*Implemente um programa que leia tres variaveis do teclado, uma de cada tipo visto em sala: int,
+ char e float. Ao nal, imprima o conteudo de cada variavel. Lembre-se de usar nomes signi cativos
+ e de imprimir mensagens adequadas!*/
 #include<stdio.h>
 
 int main ()

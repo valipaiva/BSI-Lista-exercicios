@@ -1,4 +1,4 @@
-/* Erro de execução na linha 6 no exercicio, pois %f não foi definido um tipo float como variavel,
+/* Erro de execuï¿½ï¿½o na linha 6 no exercicio, pois %f nao foi definido um tipo float como variavel,
 vai retornar o que estiver no lixo, deveria ser printf("%d", aux);*/
 
 #include<stdio.h>

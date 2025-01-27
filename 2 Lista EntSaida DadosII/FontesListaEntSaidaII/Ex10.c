@@ -14,6 +14,6 @@ int main(void)
 
 
    media= (P1*n1 + P2*n2 + P3*n3)/(P1+P2+P3);
-   printf("A media ponderada entre as notas %.2f %.2f %.2f eh igual a %.2f", n1,n2,n3, media);
+   printf("A média ponderada entre as notas %.2f %.2f %.2f é igual a %.2f", n1,n2,n3, media);
    return 0;
 }

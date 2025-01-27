@@ -1,7 +1,7 @@
 #include<stdio.h>
     int main(){
 
-    printf("Oi! Esse programa eh um teste!\n");
+    printf("Oi! Esse programa e um teste!\n");
     printf("  *\n");
     printf(" ***\n");
     printf("*****\n");

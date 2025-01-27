@@ -1,17 +1,20 @@
-#include<stdio.h>
+/* Faca um programa que leia um valor inteiro do teclado e o mostre na tela com pelo menos tres dgitos.
+ Exemplo:
+ valor lido:7- valor exibido: 007
+ valor lido:17- valor exibido: 017
+ valor lido:1024- valor exibido: 1024
+ Dica: a funcao printf possui opcoes de formatacao para esta finalidade!*/
+#include <stdio.h>
 
-int main ()
-{
- float n1,n2, aux;
+int main() {
+    int valor;
 
-    printf("Digite primeiro valor: ");
-    scanf("%f",&n1);
+    // Lê um valor inteiro do usuário
+    printf("Digite um valor inteiro: ");
+    scanf("%d", &valor);
 
-    printf("Digite segundo valor: ");
-    scanf("%f",&n2);
-
-    aux = n1 + n2;
-    printf("%.2f",aux);
+    printf("Valor exibido: %03d\n", valor);
 
     return 0;
 }
+
