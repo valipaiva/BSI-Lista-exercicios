@@ -1,5 +1,5 @@
-/*Faca uma func˜ao que receba dois numeros inteiros a e b, em seguida, decremente o primeiro e incremente o
-segundo. No exercıcio, a e b devem ser passados por referencia. Depois teste, invocando a func˜ao criada.
+/*Faca uma funcao que receba dois numeros inteiros a e b, em seguida, decremente o primeiro e incremente o
+segundo. No exercıcio, a e b devem ser passados por referencia. Depois teste, invocando a funcao criada.
 Prototipo: void questao01(int *a, int *b)
 */
 #include <stdio.h>
