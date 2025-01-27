@@ -1,0 +1,28 @@
+<< 
+Os operadores de deslocamento de bits e "movem" os bits da variável para esquerda ou direita 
+>> deslocamento para direita
+<< deslocamento para esquerda
+
+"Esta propriedade do operador deslocamento para a esquerda é frequentemente empregue, especialmente em linguagens assembler, para efetuar multiplicações de valores inteiros por 2n, pois é mais rápida do que o algoritmo de multiplicação entre dois números inteiros."
+Conforme os bits são deslocados para uma extremidade, zeros são colocados na outra. Os bits que saem por uma extremidade são perdidos e substituidos por zeros. 
+Um deslocamento à direita efetivamente multiplica um número por dois, e um deslocamento a esquerda divide por dois."
+
+operador ?
+operador ternário ? tem sintaxe:
+exp1 ? exp2 : exp3;
+onde exp1, exp2 e exp3 são expressões. O operador avalia exp1. Se for verdadeira, então exp2 se torna o valor da expressão. Se exp1 é falsa, então exp3 é avaliada e se torna o valor da expressão.
+https://www.vivaolinux.com.br/artigo/O-Alternativo-em-C-C++
+
+Função putchar() - 
+objetivo de imprimir como printf () aceitando um argumento de entrada, cujo valor será impresso como caracter.
+
+
+operador &
+operação bit a bit AND
+
+
+
+
+
+Teste de mesa:
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1558029084 source:c:\users\a2128098\documents\valissa\projetoaudio\pacote\teste0_basico.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1558029084 c:\users\a2128098\documents\valissa\projetoaudio\pacote\wavfile.h
+	<stdio.h>
+
+1558029153 c:\users\a2128098\documents\valissa\projetoaudio\pacote\trabalho2.h
+	"wavfile.h"
+
+1558029084 source:c:\users\a2128098\documents\valissa\projetoaudio\pacote\trabalho2.c
+	<stdlib.h>
+	<math.h>
+	"trabalho2.h"
+
+1558029084 source:c:\users\a2128098\documents\valissa\projetoaudio\pacote\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+

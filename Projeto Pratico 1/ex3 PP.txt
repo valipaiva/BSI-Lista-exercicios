@@ -1,0 +1,22 @@
+Exercicio 3
+Como base de estudo, voltei para as lista de Funções, exercicio 2 para transformar numeros binarios em decimal
+Para transformar decimal em binarios - exercicio 11 da lista de Funções 2
+
+
+Não estava entendendo a lógica para contar as letras, pedi ajuda aos colegas e entendi que poderia utilizar ponteiros. Não consegui finalizar o programa dessa forma.
+Como exemplo, utilizei os operadores de deslocamento do exercicio 2 do projeto, para mover os bits da variável. 
+Encontrei dificuldade em aplicar, precisei de ajuda para entregar um programa rodando.
+
+
+Ponteiro:
+Você utiliza o operador * para acessar o conteudo e o 'índice' da letra que você quer acessar:
+char *nome;
+
+nome = "Teste";
+//para acessar qualquer elemento é só acessar com o índice
+
+printf("%char",*(nome+0)); //isso irá resultar em 'T'
+printf("%char",*(nome+1)); //isso irá resultar em 'e'
+printf("%char",*(nome+2)); //isso irá resultar em 's'
+printf("%char",*(nome+3)); //isso irá resultar em 't'
+printf("%char",*(nome+4)); //isso irá resultar em 'e'

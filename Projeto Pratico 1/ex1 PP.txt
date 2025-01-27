@@ -1,0 +1,20 @@
+detalhes para escrever no PP1:
+
+
+Exercicio 1
+
+Dificuldade em separar a lógica, e entender o problema proposto por partes.
+O programa está rodando com falhas, alguns anos não consegui acessar como bissexto e não consegui entender o motivo para arrumar a lógica.
+Pedi diversas vezes ajuda, 
+
+Como base para definir o dia da semana, utilizei o gabarito disponível do exercicio 03 da Lista de exercicios 02 - Estruturas condicionais para estudo  e utilizei a formula disponível em:  
+http://arcaz.dainf.ct.utfpr.edu.br/rea/files/original/b638596b01aae0a52c36e987c09ac053.pdf 
+
+Definir o número de dias de cada mês, conforme for imprimir os meses
+
+Checar se o ano é bissexto ou não. Estudei as regras para entender o processo com dados dessa página:
+
+http://pt.wikipedia.org/wiki/Ano_bissexto
+
+
+

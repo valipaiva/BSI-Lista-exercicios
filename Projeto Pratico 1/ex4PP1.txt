@@ -1,0 +1,13 @@
+Cartão de credito PP1
+
+ler o numero que sera digitado pelo usuario
+se tiver algum caracter não numerico ou fora do intervalo entre 1 e 9
+se o num tiver menos que 13 digitos - 
+se num tiver mais que 16
+
+
+
+
+verificar a validade do numero com o algoritmo de Luhn
+identificar a operadora
+validar de acordo com as mensagens informadas
